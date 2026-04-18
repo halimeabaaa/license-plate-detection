@@ -1,0 +1,46 @@
+# IDE / Editor
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.ipynb_checkpoints/
+.env
+
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.slxc
+*.mexw64
+*.mexw32
+*.fig~
+
+# OS / System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project folders to ignore
+characters/
+cropped_plates/
+images/
+labels/
+test/
+train/
+yolo_dataset/
+
+# Temp / logs
+*.log
+temp/
+tmp/
+
+# Outputs
+runs/
+results/
+outputs/
